@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class SILab2Test {
 
     @Test
-    void everyStatementTest(){
+    void everyStatementAndBranchTest(){
         List<String> case1 = List.of();
         List<String> case2 = List.of("0","#");
 
